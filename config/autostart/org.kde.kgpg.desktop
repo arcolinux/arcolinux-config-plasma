@@ -215,5 +215,6 @@ Name[zh_TW]=KGpg
 
 X-KDE-autostart-after=panel
 X-KDE-autostart-condition=kgpgrc:User Interface:AutoStart:false
+OnlyShowIn=KDE
 
 Categories=Qt;KDE;Utility;X-KDE-Utilities-PIM;
