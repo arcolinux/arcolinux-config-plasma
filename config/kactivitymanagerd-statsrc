@@ -1,0 +1,5 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-106-e1d0d2e5-1758-4fad-af61-edea589e5c0b]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:qt5ct.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,applications:org.kde.discover.desktop,applications:org.kde.ksysguard.desktop,applications:atom.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-106-global]
+ordering=preferred://browser,applications:systemsettings.desktop,applications:qt5ct.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,applications:org.kde.discover.desktop,applications:org.kde.ksysguard.desktop,applications:atom.desktop
