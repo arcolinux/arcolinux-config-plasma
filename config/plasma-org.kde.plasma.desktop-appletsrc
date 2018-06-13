@@ -23,7 +23,7 @@ DialogWidth=720
 PreloadWeight=42
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=file:///home/erik/.config/variety/Downloaded/Desktoppr/n4w91_-_imgur.jpg
+Image=file:///usr/share/backgrounds/arcolinux/criptica-diethyl-metal-3840x2160.jpg
 
 [Containments][2]
 activityId=
