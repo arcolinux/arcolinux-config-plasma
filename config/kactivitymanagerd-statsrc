@@ -10,5 +10,8 @@ ordering=preferred://browser,applications:systemsettings.desktop,applications:qt
 [Favorites-org.kde.plasma.kickoff.favorites.instance-3-b268c42d-516d-43f3-8155-ce06327be42f]
 ordering=preferred://browser,applications:systemsettings.desktop,applications:qt5ct.desktop,applications:org.kde.discover.desktop,applications:org.kde.kate.desktop,applications:atom.desktop,applications:org.kde.ksysguard.desktop,applications:org.kde.dolphin.desktop
 
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-ed5ce83e-3238-4639-b04e-9b01a48ce478]
+ordering=applications:vivaldi-stable.desktop,applications:systemsettings.desktop,applications:qt5ct.desktop,applications:org.kde.discover.desktop,applications:org.kde.ksysguard.desktop,applications:atom.desktop,applications:org.kde.kate.desktop,applications:org.kde.dolphin.desktop
+
 [Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
-ordering=preferred://browser,applications:systemsettings.desktop,applications:qt5ct.desktop,applications:org.kde.discover.desktop,applications:org.kde.ksysguard.desktop,applications:atom.desktop,applications:org.kde.kate.desktop,applications:org.kde.dolphin.desktop
+ordering=applications:vivaldi-stable.desktop,applications:systemsettings.desktop,applications:qt5ct.desktop,applications:org.kde.discover.desktop,applications:org.kde.ksysguard.desktop,applications:atom.desktop,applications:org.kde.kate.desktop,applications:org.kde.dolphin.desktop
