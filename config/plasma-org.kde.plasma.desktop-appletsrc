@@ -20,7 +20,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][1][Configuration]
-PreloadWeight=42
+PreloadWeight=0
 
 [Containments][1][Wallpaper][org.kde.image][General]
 Image=file:///usr/share/backgrounds/arcolinux/criptica-diethyl-metal-3840x2160.jpg
@@ -55,21 +55,21 @@ immutability=1
 plugin=org.kde.plasma.pager
 
 [Containments][2][Applets][4][Configuration]
-PreloadWeight=42
+PreloadWeight=0
 
 [Containments][2][Applets][5]
 immutability=1
 plugin=org.kde.plasma.taskmanager
 
 [Containments][2][Applets][5][Configuration]
-PreloadWeight=42
+PreloadWeight=0
 
 [Containments][2][Applets][6]
 immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][2][Applets][6][Configuration]
-PreloadWeight=42
+PreloadWeight=0
 SystrayContainmentId=7
 
 [Containments][2][Applets][8]
@@ -77,10 +77,10 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][2][Applets][8][Configuration]
-PreloadWeight=42
+PreloadWeight=0
 
 [Containments][2][Configuration]
-PreloadWeight=42
+PreloadWeight=0
 
 [Containments][2][General]
 AppletOrder=3;4;5;6;8
@@ -99,73 +99,73 @@ immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][7][Applets][10][Configuration]
-PreloadWeight=42
+PreloadWeight=0
 
 [Containments][7][Applets][11]
 immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][7][Applets][11][Configuration]
-PreloadWeight=42
+PreloadWeight=0
 
 [Containments][7][Applets][12]
 immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][7][Applets][12][Configuration]
-PreloadWeight=42
+PreloadWeight=0
 
 [Containments][7][Applets][13]
 immutability=1
 plugin=org.kde.plasma.printmanager
 
 [Containments][7][Applets][13][Configuration]
-PreloadWeight=42
+PreloadWeight=0
 
 [Containments][7][Applets][14]
 immutability=1
 plugin=org.kde.discovernotifier
 
 [Containments][7][Applets][14][Configuration]
-PreloadWeight=42
+PreloadWeight=0
 
 [Containments][7][Applets][15]
 immutability=1
 plugin=org.kde.plasma.vault
 
 [Containments][7][Applets][15][Configuration]
-PreloadWeight=42
+PreloadWeight=0
 
 [Containments][7][Applets][16]
 immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][7][Applets][16][Configuration]
-PreloadWeight=42
+PreloadWeight=0
 
 [Containments][7][Applets][17]
 immutability=1
 plugin=org.kde.ktp-contactlist
 
 [Containments][7][Applets][17][Configuration]
-PreloadWeight=42
+PreloadWeight=0
 
 [Containments][7][Applets][18]
 immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][7][Applets][18][Configuration]
-PreloadWeight=42
+PreloadWeight=0
 
 [Containments][7][Applets][9]
 immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][7][Applets][9][Configuration]
-PreloadWeight=42
+PreloadWeight=0
 
 [Containments][7][Configuration]
-PreloadWeight=42
+PreloadWeight=0
 
 [Containments][7][General]
 extraItems=org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.mediacontroller,org.kde.plasma.vault,org.kde.discovernotifier,org.kde.plasma.devicenotifier,org.kde.plasma.clipboard,org.kde.plasma.printmanager,org.kde.plasma.volume,org.kde.plasma.battery,org.kde.ktp-contactlist,org.kde.plasma.notifications
@@ -173,4 +173,4 @@ knownItems=org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.pla
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/Home.desktop,0,desktop:/trash.desktop,0
+screenMapping=desktop:/trash.desktop,0,desktop:/Home.desktop,0
