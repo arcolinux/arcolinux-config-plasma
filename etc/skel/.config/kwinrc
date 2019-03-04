@@ -8,7 +8,10 @@ Rows=2
 
 [Plugins]
 wobblywindowsEnabled=true
+kwin4_effect_fadedesktopEnabled=true
 
 [Windows]
 RollOverDesktops=true
+RollOverDesktops=true
+TitlebarDoubleClickCommand=Maximize
 
