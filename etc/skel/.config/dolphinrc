@@ -3,7 +3,8 @@ State=AAAA/wAAAAD9AAAAAwAAAAAAAAC0AAADzPwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAG
 Window-Maximized 1080x1920=true
 
 [General]
-ShowFullPathInTitlebar=true
+Version=200
+ViewPropsTimestamp=2019,3,4,13,13,7
 
 [MainWindow]
 MenuBar=Disabled
