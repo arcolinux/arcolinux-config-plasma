@@ -7,7 +7,9 @@ Number=4
 Rows=2
 
 [Plugins]
+cubeEnabled=true
 desktopchangeosdEnabled=false
+kwin4_effect_dimscreenEnabled=true
 kwin4_effect_fadedesktopEnabled=true
 slideEnabled=false
 wobblywindowsEnabled=true
@@ -16,4 +18,3 @@ wobblywindowsEnabled=true
 [Windows]
 RollOverDesktops=true
 TitlebarDoubleClickCommand=Maximize
-
